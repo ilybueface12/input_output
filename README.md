@@ -122,10 +122,6 @@ def get_course_info(html):
 
 ![Схема потока данных](https://dvmn.org/filer/canonical/1594117412/678/)
 
-![alt text](https://devman.org/assets/images/7_40__data_flow.png)
-Кроме того, часть кода удалось превратить в [чистые функции](https://devman.org/encyclopedia/decomposition/decomposition_pure_functions/), что облегчит 
-Кроме того, часть кода удалось превратить в чистые функции, что облегчит 
-тестирование и повторное использование.
 Кроме того, часть кода удалось превратить в [чистые функции](https://dvmn.org/encyclopedia/decomposition/decomposition_pure_functions/),
 что облегчает тестирование и повторное использование.
 
